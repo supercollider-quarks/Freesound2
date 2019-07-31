@@ -6,6 +6,6 @@
 \organization:  "MTG, Universitat Pompeu Fabra",
 \version: 0.1,
 \dependencies: [],
-\ext_dependancy: "curl",
+\ext_dependency: "curl",
 \helpdoc:	""
 )
